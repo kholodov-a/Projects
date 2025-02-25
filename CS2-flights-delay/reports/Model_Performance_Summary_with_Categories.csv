@@ -1,7 +1,0 @@
-Model Category,Model Type,Parameters,Train Score,Test Score
-Regression,Linear Regression,N/A,R²: 0.0251,R²: 0.0197
-Regression,Regularized Regression (Lasso),Alpha: 0.17,R²: 0.0220,R²: 0.0207
-Regression,Lasso with PCA Reduction,"15 PCA factors, Alpha: 0.000001",R²: 0.0121,R²: 0.0122
-Regression,Random Forest Regression,"150 estimators, Max Depth: 3",R²: 0.0111,R²: 0.0051
-Classification,K-Neighbors Classification,19 neighbors,F1-macro: 0.073963,F1-macro: 0.056446
-Classification,Random Forest Classifier,"50 estimators, Max Depth: 20, Criterion: 'gini'",F1-macro: 0.049368,F1-macro: 0.037726
