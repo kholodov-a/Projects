@@ -31,7 +31,7 @@ The system is designed to be production-ready, enabling both inference and retra
 
 ## Key Features
 
-- **Retraining Options:** Retraining is triggered via an API endpoint and supports three distinct modes:
+- **One-click Retraining:** Retraining is triggered via an API endpoint and supports three distinct modes:
   - **From Scratch (Original Dataset):** Train the model from scratch using the original TrashNet dataset.
   - **Fine-tuning:** Update the current model by fine-tuning it with newly labelled data.
   - **From Scratch (Combined Dataset):** Train the model from scratch using a combined dataset that includes both the original images and newly labelled images.
